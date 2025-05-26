@@ -41,13 +41,13 @@
 ---
 
 ## 폴더 구조
-├── App/NNL_SensorLogger-capstone # Android 앱 소스
-├── Arduino/ # 스마트밴드 펌웨어 (Arduino IDE)
-├── PDR_RSSI/ # PDR 및 RSSI 데이터 처리 파이프라인
-├── RadioMap/ # 라디오맵 수집·보간·시각화 스크립트
-├── SC/ # Surface Correlation 알고리즘 구현
-├── LICENSE # MIT 라이선스
-└── README.md # 프로젝트 개요 및 사용법
+- `App/NNL_SensorLogger-capstone`  – Android 앱 소스  
+- `Arduino/`  – 스마트밴드 펌웨어 (Arduino IDE)  
+- `PDR_RSSI/`  – PDR 및 RSSI 데이터 처리 파이프라인  
+- `RadioMap/`  – 라디오맵 수집·보간·시각화 스크립트  
+- `SC/`  – Surface Correlation 알고리즘 구현  
+- `LICENSE`  – MIT 라이선스  
+- `README.md`  – 프로젝트 개요 및 사용법  
 
 ---
 
