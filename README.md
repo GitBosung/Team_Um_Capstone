@@ -52,10 +52,10 @@
 ---
 
 ## 사용 예시
-# 1) Android 앱으로 CSV 데이터 수집-
-# 2) `RadioMap/`에서 라디오맵 구축
-# 3) `PDR_RSSI/`로 PDR + RSSI 전처리
-# 4) `SC/`로 최종 위치 추정
+- 1) Android 앱으로 CSV 데이터 수집-
+- 2) `RadioMap/`에서 라디오맵 구축
+- 3) `PDR_RSSI/`로 PDR + RSSI 전처리
+- 4) `SC/`로 최종 위치 추정
 
 ---
 ##라이선스
